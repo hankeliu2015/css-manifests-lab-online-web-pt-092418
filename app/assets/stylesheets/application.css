@@ -3,6 +3,7 @@
 *= require pages
 *= require posts
 *= require main
-
+*= require bootstrap-addon
+*= require hidden_styles
 
  */
